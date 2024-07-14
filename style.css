@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(248, 241, 231);
+}
+
+h1{
+    text-align: center;
+    color: green;
+    text-decoration: underline;
+}
+
+li{
+    font-size: large;
+    margin-bottom: 10px;
+}
+
+li a {
+    text-decoration: none;
+    color: black;
+}
+
+img{
+    width: 300px;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
